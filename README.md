@@ -1,4 +1,4 @@
-# TAREA 1 Lenguajes de Programación (INF253) 2023-02
+# TAREA 1 Lenguajes de Programación (INF253) 2023-02 USM
 Programa en python que simula una calculadora especial mediante el uso de la librería **re**. Recibe un archivo llamado ***problemas.txt*** , el cual contiene operaciones que permiten la suma, resta, multiplicación y división(entera) de números enteros, además de las palabras clave *ANS* y *CUPON*. El programa retorna un archivo de texto llamado ***desarrollo.txt*** el cual contiene los resultados de las operaciones presentes en el archivo de problemas.
 
 ## CLAVES ANS Y CUPON
